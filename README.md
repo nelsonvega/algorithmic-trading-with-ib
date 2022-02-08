@@ -1,1 +1,1 @@
-# algorithmic-trading-with-ib
+# Algorithmic Trading with Interactive Broker
